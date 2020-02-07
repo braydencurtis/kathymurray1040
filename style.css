@@ -74,6 +74,7 @@ ul {
 .headshot > img {
     width: 100%;
     border-radius: 50%;
+    border: solid 15px white;
 }
 
 .name {
